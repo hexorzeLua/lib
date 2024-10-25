@@ -1,3 +1,4 @@
+
 -- Ссылка на Библиотеку
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/hexorzeLua/lib/refs/heads/main/uigui"))()
 --[[ 
